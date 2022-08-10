@@ -25,3 +25,7 @@ Supported conditions:
 
 * AND
 * OR
+
+Several conditions : you can add brackets () to add several conditions and prioritize it
+
+* Exemple : property_A='true' AND (property_B='ORANGE' OR preperty_B='GREEN')
