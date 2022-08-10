@@ -4,7 +4,7 @@ On the _Health_ menu, you will find _Sources data quality_. It shows all events 
 
 ![](<../.gitbook/assets/Capture d’écran 2022-06-29 à 11.35.40.png>)
 
-You can visualize the evolution of number of events received (purchase, add to cart...) in the last 24 hours.
+You can visualize the evolution of number of events received (purchase, add to cart...) in a maximum period of 14 days.
 
 Below, you can analyze in detail each event and have more details about errors and rejection:
 
