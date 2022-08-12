@@ -25,3 +25,9 @@ Supported conditions:
 
 * AND
 * OR
+
+Prioritizing agregation of several conditions with brackets : 
+* ()
+* Exemple : property_A='Exemple' AND (property_B='ORANGE' OR property_B='GREEN') 
+
+--> Events will be sent if it contains a property_A that worth 'Exemple' and if it contains a property_B that worth 'ORANGE' or 'GREEN'
